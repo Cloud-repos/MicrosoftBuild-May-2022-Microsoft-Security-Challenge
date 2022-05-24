@@ -6,7 +6,7 @@ Day 1 - 5/24/2022
 
 Registered for the challenge. Start challenge. 
 
-Completed 1st Module:[Plan for cloud workload protections using Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender)
+Completed 1st Module: [Plan for cloud workload protections using Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender)
 * Microsoft Defender for Cloud fetaures.
 * Microsoft Defender for Cloud workload protections.
 * Enable Microsoft Defender for Cloud.
