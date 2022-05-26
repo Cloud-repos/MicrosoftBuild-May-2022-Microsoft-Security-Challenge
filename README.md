@@ -20,4 +20,4 @@ Complete 2nd Module: [Explain cloud workdload protections in Microsoft Defender 
 * Benefits of the protections offered by Microsoft Defender for Cloud
 * How Microsoft Defender for Cloud protections functions.
 
-  Notes:
+
