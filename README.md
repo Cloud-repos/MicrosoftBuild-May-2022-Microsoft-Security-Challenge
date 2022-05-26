@@ -15,9 +15,12 @@ Completed 1st Module: [Plan for cloud workload protections using Microsoft Defen
 
 Day 2 - 5/25/2022
 
-Complete 2nd Module: [Explain cloud workdload protections in Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/)
+Completed 2nd Module: [Explain cloud workdload protections in Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/)
 * Workloads protected by Microsoft Defender for Cloud
 * Benefits of the protections offered by Microsoft Defender for Cloud
 * How Microsoft Defender for Cloud protections functions.
 
+Day 3 - 5/26/2022
+
+Complete Module: [Connect Azure assets to Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/)
 
