@@ -22,5 +22,9 @@ Completed 2nd Module: [Explain cloud workdload protections in Microsoft Defender
 
 Day 3 - 5/26/2022
 
-Complete Module: [Connect Azure assets to Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/)
+Completed Module: [Connect Azure assets to Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/)
+
+Day 4 - 5/27/2022
+
+Complete Module: [Connect non-Azure resources to Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/connect-non-azure-machines-to-azure-defender/)
 
