@@ -30,5 +30,13 @@ Completed Module: [Connect non-Azure resources to Microsoft Defender for Cloud](
 
 Day 5 - 5/28/2022
 
-COmplete Module: [Remediate security alerts using Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/)
+Started Module: [Remediate security alerts using Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/)
 
+Day 6 - 5/29/2022 
+
+Finished "Remediate security alerts using Microsoft Defender for Cloud" module. Completed Module: [Threat detection with Microsoft Sentinel analytics](https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/)
+
+
+Day 7 - 5/30/2022
+
+Complete Module: [Threat response with Microsoft Sentinel playbooks](https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/)
