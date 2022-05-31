@@ -39,4 +39,8 @@ Finished "Remediate security alerts using Microsoft Defender for Cloud" module. 
 
 Day 7 - 5/30/2022
 
-Complete Module: [Threat response with Microsoft Sentinel playbooks](https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/)
+Completed Module: [Threat response with Microsoft Sentinel playbooks](https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/)
+
+Day 8 - 5/31/2022
+
+Complete Module: [Security incident management in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/)
