@@ -43,4 +43,8 @@ Completed Module: [Threat response with Microsoft Sentinel playbooks](https://do
 
 Day 8 - 5/31/2022
 
-Complete Module: [Security incident management in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/)
+Completed Module: [Security incident management in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/)
+
+Day 9 - 6/1/2022
+
+Complete Module: [Identify threats with User and Entity Behavior Analytics in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/)
