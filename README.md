@@ -47,4 +47,10 @@ Completed Module: [Security incident management in Microsoft Sentinel](https://d
 
 Day 9 - 6/1/2022
 
-Complete Module: [Identify threats with User and Entity Behavior Analytics in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/)
+Started Module: [Identify threats with User and Entity Behavior Analytics in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/)
+
+Day 10 - 6/2/2022
+
+Finished module: "Identify threats with User and Entity Behavior Analytics in Microsoft Sentinel".
+
+Complete [Query, visualize, and monitor data in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/query-data-sentinel/)
