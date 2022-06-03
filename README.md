@@ -54,3 +54,7 @@ Day 10 - 6/2/2022
 Finished module: "Identify threats with User and Entity Behavior Analytics in Microsoft Sentinel".
 
 Completed [Query, visualize, and monitor data in Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/modules/query-data-sentinel/)
+
+Day 11 - 6/3/2022
+
+Complete [Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
