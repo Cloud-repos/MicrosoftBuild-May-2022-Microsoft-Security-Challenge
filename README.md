@@ -57,4 +57,12 @@ Completed [Query, visualize, and monitor data in Microsoft Sentinel](https://doc
 
 Day 11 - 6/3/2022
 
-Complete [Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
+Completed [Introduction to threat protection with Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/m365-security-threat-define/)
+
+Day 12 - 6/4/2022
+
+Complete: 
+
+* [Mitigate incidents using Microsoft 365 Defender](https://docs.microsoft.com/en-us/learn/modules/mitigate-incidents-microsoft-365-defender/) 
+* [Protect your identities with Azure AD Identity Protection](https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp)
+* [Remediate risks with Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/learn/modules/m365-threat-remediate/)
