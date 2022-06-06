@@ -69,4 +69,11 @@ Completed Modules:
 
 Day 13 - 6/5/2022
 
-Complete: Module [Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
+Started Module "Safeguard your environment with Microsoft Defender for Identity".
+
+Day 14 - 6/6/2022
+
+Completed Modules: 
+
+* [Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
+* [Secure your cloud apps and services with Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-app-security/)
