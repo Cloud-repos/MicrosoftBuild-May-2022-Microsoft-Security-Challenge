@@ -77,3 +77,10 @@ Completed Modules:
 
 * [Safeguard your environment with Microsoft Defender for Identity](https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/)
 * [Secure your cloud apps and services with Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-app-security/)
+
+Day 15 - 6/7/2022
+
+Completed Module:
+
+* [Respond to data loss prevention alerts using Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/respond-to-data-loss-prevention-alerts-microsoft-365/)
+
