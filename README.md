@@ -84,3 +84,14 @@ Completed Module:
 
 * [Respond to data loss prevention alerts using Microsoft 365](https://docs.microsoft.com/en-us/learn/modules/respond-to-data-loss-prevention-alerts-microsoft-365/)
 
+Day 16 - 6/8/2022
+
+Started module "Manage insider risk in Microsoft Purview"
+
+Day 17 - 6/9/2022
+
+Complete Modules:
+
+* [Manage insider risk in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/m365-compliance-insider-manage-insider-risk/)
+* [Search for content in the Microsoft Purview compliance portal](https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/)
+
