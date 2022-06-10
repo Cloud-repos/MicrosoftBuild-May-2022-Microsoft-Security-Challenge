@@ -90,8 +90,15 @@ Started module "Manage insider risk in Microsoft Purview"
 
 Day 17 - 6/9/2022
 
-Complete Modules:
+Completed Modules:
 
 * [Manage insider risk in Microsoft Purview](https://docs.microsoft.com/en-us/learn/modules/m365-compliance-insider-manage-insider-risk/)
 * [Search for content in the Microsoft Purview compliance portal](https://docs.microsoft.com/en-us/learn/modules/search-for-content-security-compliance-center/)
+
+Day 18 - 6/10/2022
+
+Complete Modules:
+
+* [Conduct audit log investigations](https://docs.microsoft.com/en-us/learn/modules/conduct-audit-log-investigations/)
+* [Manage Advanced eDiscovery](https://docs.microsoft.com/en-us/learn/modules/manage-advanced-ediscovery/)
 
