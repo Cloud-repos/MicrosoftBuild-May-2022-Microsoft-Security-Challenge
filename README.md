@@ -97,8 +97,13 @@ Completed Modules:
 
 Day 18 - 6/10/2022
 
-Complete Modules:
+Completed Modules:
 
 * [Conduct audit log investigations](https://docs.microsoft.com/en-us/learn/modules/conduct-audit-log-investigations/)
 * [Manage Advanced eDiscovery](https://docs.microsoft.com/en-us/learn/modules/manage-advanced-ediscovery/)
 
+Day 19 - 6/11/2022
+
+Complete Module:
+
+* [Plan and design the integration of enterprise apps for SSO](https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/)
