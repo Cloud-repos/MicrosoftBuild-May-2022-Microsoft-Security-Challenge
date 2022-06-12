@@ -104,6 +104,9 @@ Completed Modules:
 
 Day 19 - 6/11/2022
 
-Complete Module:
+Stared Module [Plan and design the integration of enterprise apps for SSO](https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/)
 
-* [Plan and design the integration of enterprise apps for SSO](https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/)
+Day 20 - 6/12/2022
+
+Finished Module "Plan and design the integration of enterprise apps for SSO".
+
