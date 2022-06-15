@@ -119,7 +119,12 @@ Completed Modules:
 
 Day 22 - 6/14/2022
 
-Complete Module:
+Completed Module:
 
 * [Implement and monitor the integration of enterprise apps for SSO](https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/)
 
+Day 23 - 6/15/2022
+
+Complete Module:
+
+* [Implement app registration](https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/)
