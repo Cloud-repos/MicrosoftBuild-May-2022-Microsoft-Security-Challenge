@@ -112,8 +112,14 @@ Finished Module "Plan and design the integration of enterprise apps for SSO"
 
 Day 21 - 6/13/2022
 
-Complete Modules:
+Completed Modules:
 
 * [Implement and monitor the integration of enterprise apps for SSO](https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/)
 * [Implement app registration](https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/)
+
+Day 22 - 6/14/2022
+
+Complete Module:
+
+* [Implement and monitor the integration of enterprise apps for SSO](https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/)
 
