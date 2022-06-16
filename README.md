@@ -125,6 +125,15 @@ Completed Module:
 
 Day 23 - 6/15/2022
 
-Complete Module:
+Completed Module:
 
 * [Implement app registration](https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/)
+
+Day 24 - 6/16/2022
+
+Completed Modules:
+
+* [Secure Azure Active Directory users with Multi-Factor Authentication](https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/) - Reviewed this module, as I had previously completed some other time prior to the challenge.
+
+* [Manage user authentication](https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/)
+
