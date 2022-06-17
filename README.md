@@ -137,3 +137,11 @@ Completed Modules:
 
 * [Manage user authentication](https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/)
 
+Day 25 - 6/17/2022
+
+Complete Modules:
+
+* [Plan, implement, and administer Conditional Access](https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/)
+
+
+
