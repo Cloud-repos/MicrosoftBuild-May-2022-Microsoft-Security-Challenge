@@ -131,17 +131,23 @@ Completed Module:
 
 Day 24 - 6/16/2022
 
-Completed Modules:
+Complete Modules:
 
-* [Secure Azure Active Directory users with Multi-Factor Authentication](https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/) - Reviewed this module, as I had previously completed some other time prior to the challenge.
+* Completed [Secure Azure Active Directory users with Multi-Factor Authentication](https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/) - Reviewed this module, as I had previously completed some other time prior to the challenge.
 
-* [Manage user authentication](https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/)
+* Started [Manage user authentication](https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/)
 
 Day 25 - 6/17/2022
 
 Complete Modules:
 
 * [Plan, implement, and administer Conditional Access](https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/)
+
+Day 26 6/19/2022
+
+* Finished Module "Manage user authentication"
+
+* Complete the last Module: [Manage Azure AD Identity Protection](https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/)
 
 
 
