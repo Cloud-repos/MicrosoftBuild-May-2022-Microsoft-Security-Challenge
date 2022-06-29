@@ -150,4 +150,5 @@ Day 26 6/19/2022
 * Complete the last Module: [Manage Azure AD Identity Protection](https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/)
 
 
+<img src="Microsoft-Build-2022-badge.png" width="320" height="320">
 
